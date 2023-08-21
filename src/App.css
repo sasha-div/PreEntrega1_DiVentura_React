@@ -1,4 +1,5 @@
-.App {
+.h1-greeting-landing {
+  padding-top: 10rem;
   text-align: center;
 }
 
@@ -32,6 +33,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

@@ -2,7 +2,11 @@ import { CartFill } from 'react-bootstrap-icons';
 
 const CartWidget = () => {
     return (
-        <CartFill size={20} />
+        <div>
+            <button><CartFill size={20} /></button>
+            0
+        </div>
+
     );
 }
 
